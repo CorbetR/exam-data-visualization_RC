@@ -16,7 +16,5 @@ function twoSum(array, target) {
     return "Erreur, aucune solution trouvée : ", []; //Retourne une liste vide si pas de solution
 }
 
-const array = [3, 8, 5, 2, 4];
-const target = 6;
-console.log(twoSum(array, target));
+
 
